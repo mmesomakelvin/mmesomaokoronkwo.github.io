@@ -19,7 +19,7 @@ This repository contains a static portfolio site built on the HTML5 UP `Massivel
 
 | Project | Section | Why it fits |
 | --- | --- | --- |
-| Data Exploration in SQL | Data Analysis, Data Engineering | Strong SQL exploration and transformation logic |
+| Data Exploration in SQL | Data Engineering | Strong SQL exploration and transformation logic |
 | Foresight BI Pharm Data Set Project | Data Analysis | Analytics storytelling and dataset exploration |
 | Adidas Sales Data Set Power BI Project | Data Analysis | Business intelligence and dashboard insight generation |
 | Unique KPI Card Visual with Advanced DAX | Data Analysis | KPI storytelling, DAX, and executive-facing reporting |
