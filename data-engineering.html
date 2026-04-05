@@ -38,11 +38,30 @@
 				<section class="post">
 					<header class="major">
 						<h1>Data Engineering</h1>
-						<p>The current public portfolio does not yet include a standalone pipeline or platform case study. This page therefore highlights the existing projects with the strongest data-ingestion, transformation, and model-ready preparation foundations while keeping the classification honest.</p>
+						<p>This section focuses on pipeline design, data movement, transformation logic, warehouse modeling, and reusable engineering workflows. It now includes a full Microsoft Fabric project alongside the SQL and Python work that supports model-ready preparation.</p>
 					</header>
 				</section>
 
 				<section class="posts">
+					<article>
+						<header>
+							<h2><a href="https://github.com/mmesomakelvin/Fabricport-nextgen.git">End-to-End Data Engineering with Microsoft Fabric</a></h2>
+						</header>
+						<div class="pipeline-visual" aria-label="Animated Microsoft Fabric pipeline visual">
+							<div class="pipeline-track"></div>
+							<div class="pipeline-node source">CSV API</div>
+							<div class="pipeline-node ingest">Pipeline</div>
+							<div class="pipeline-node transform">PySpark</div>
+							<div class="pipeline-node warehouse">DWH</div>
+							<div class="pipeline-node consume">Power BI</div>
+							<div class="pipeline-pulse pulse-one"></div>
+							<div class="pipeline-pulse pulse-two"></div>
+						</div>
+						<p>A genuine Microsoft Fabric engineering project built around GitHub-sourced CSV ingestion, a Fabric Data Pipeline, OneLake lakehouse storage, PySpark and Dataflow Gen2 transformation, star schema warehouse modeling, and Power BI serving. The repo includes the notebook, schema scripts, cross-database view, and stored procedure used to load the warehouse by year.</p>
+						<ul class="actions special">
+							<li><a href="https://github.com/mmesomakelvin/Fabricport-nextgen.git" class="button">View Repo</a></li>
+						</ul>
+					</article>
 					<article>
 						<header>
 							<h2><a href="https://github.com/mmesomakelvin/Mmesoma.data/blob/main/MMESOMA%20SQL%20PORTFOLIO%20ONE.sql">Data Exploration in SQL</a></h2>
@@ -78,7 +97,7 @@
 				<section class="post">
 					<header class="major">
 						<h2>Current Engineering Focus</h2>
-						<p>My broader data engineering interests include orchestration, streaming, ELT design, and robust pipeline thinking with tools such as SQL, Python, Airflow, and Kafka. As new public case studies are added, they can replace the current engineering-adjacent selections above.</p>
+						<p>My engineering work centers on orchestration, ELT design, reusable SQL patterns, transformation workflows, and practical warehouse modeling. The Fabric project is the clearest end-to-end example in the current public portfolio, while the SQL and Python projects show the preparation and transformation foundations that support downstream analytics and modeling.</p>
 					</header>
 				</section>
 

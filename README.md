@@ -26,6 +26,7 @@ This repository contains a static portfolio site built on the HTML5 UP `Massivel
 | Analysis of the Importation of Petrol (PMS) Between 2015 and 2023 in Nigeria | Data Analysis | Trend analysis and dashboard communication |
 | Diversity and Inclusivity Report with PWC Forage Internship | Data Analysis | Workforce analytics and insight reporting |
 | Microsoft Power Up Challenge - Business Scenario (Animal Shelter) | Data Analysis | Operational analysis and business reporting |
+| End-to-End Data Engineering with Microsoft Fabric | Data Engineering | Full pipeline case study spanning ingestion, lakehouse, transformation, warehouse modeling, and BI serving |
 | Correlation Project with Python | Data Science, Data Engineering | Statistical investigation plus strong cleaning and preparation workflow |
 | Predictive Analysis for Gold Exploration Using Python | Data Science, Data Engineering | Predictive workflow with model-ready data preparation |
 
